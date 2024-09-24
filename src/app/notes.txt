@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "mensaje"
+git checkout -- .  (retorna estado proyecto a la foto/commit hecho antes del cambio)
